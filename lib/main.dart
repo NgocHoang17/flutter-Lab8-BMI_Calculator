@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'screens/input_page.dart';
 
+// Flutter application entry point.
 void main() => runApp(const BmiApp());
 
 class BmiApp extends StatelessWidget {
